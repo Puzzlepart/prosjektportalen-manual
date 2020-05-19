@@ -18,4 +18,4 @@ heading_anchors: true
 # color_scheme: "dark"
 color_scheme: "light"
 
-exclude: ['./README.md']
+exclude: [README.md]
