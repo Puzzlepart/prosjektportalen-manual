@@ -19,3 +19,7 @@ heading_anchors: true
 color_scheme: "light"
 
 exclude: [README.md]
+
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
