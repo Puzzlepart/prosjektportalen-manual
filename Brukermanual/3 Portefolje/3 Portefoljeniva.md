@@ -14,7 +14,7 @@ Merk at du ser bare prosjekter som du har tillatelse til å se. Dette baseres p�
 
 Det er i porteføljenivået at standarddokumenter, standardoppgaver, standardinteressenter og standard fasesjekkpunkter blir vedlikeholdt.
 
-# Forsiden
+## Forsiden
 
 På forsiden får du en oversikt over tilgjengelige prosjekter med
 nøkkelinfo om hvert prosjekt. Her kan du også opprette nye prosjekter.
