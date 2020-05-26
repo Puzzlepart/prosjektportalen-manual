@@ -9,4 +9,4 @@ parent:
 
 Spørsmål og svar
 ============
-På disse sidene kan vi legge inn generelle sørsmål og svar som brukerne ofte har nytte av å kunne slå opp.
+På disse sidene kan vi legge inn generelle sørsmål og svar som brukerne ofte vil kunna ha nytte av.
