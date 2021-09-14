@@ -12,7 +12,7 @@ Introduksjon
 
 Prosjektportalen 365 er en komplett løsning for prosjekt- og porteføljestyring.
 Den er basert på [Difis Prosjektveiviser](https://www.prosjektveiviseren.no) og er utviklet spesifikt for å
-formidle og forenkle samhandling og prosjektledelse ved hjelp av Office 365 og
+formidle og forenkle samhandling og prosjektledelse ved hjelp av Microsoft 365 og
 Microsoft Teams.
 
 Om dokumentasjonen
@@ -24,10 +24,10 @@ for bruk av SharePoint, plattformen som Prosjektportalen er bygget i. For
 generell bruk av SharePoint anbefaler vi å benytte [Microsofts
 SharePoint-supportsider](https://support.office.com/nb-no/sharepoint).
 
-Integrasjon med andre produkter i Office 365 pakken
+Integrasjon med andre produkter i Microsoft 365 pakken
 ---------------------------------------------------
 
-Løsningen er bygget på SharePoint i Office 365. I løsningen er det også funksjonalitet som benytter seg av produktene OneNote, Microsoft Planner og Microsoft Teams (heretter omtalt bare som Planner og Teams). Alle disse produktene er del av Office 365-pakken fra Microsoft.
+Løsningen er bygget på SharePoint i Microsoft 365. I løsningen er det også funksjonalitet som benytter seg av produktene OneNote, Microsoft Planner og Microsoft Teams (heretter omtalt bare som Planner og Teams). Alle disse produktene er del av Microsoft 365-pakken fra Microsoft.
 
 ### OneNote
 
