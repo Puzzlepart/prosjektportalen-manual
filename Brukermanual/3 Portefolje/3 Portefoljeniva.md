@@ -10,8 +10,6 @@ has_children: true
 
 Porteføljenivået gir god oversikt over alle prosjektene i porteføljen. I denne oversikten kan du følge status på prosjekter, utvikling i gevinstrealisering og annen nøkkelinfo om prosjekter.
 
-Merk at du ser bare prosjekter som du har tillatelse til å se. Dette baseres på rettighetene du er tildelt *per prosjekt* i Prosjektportalen 365.
-
 Det er i porteføljenivået at standarddokumenter, standardoppgaver, standardinteressenter og standard fasesjekkpunkter blir vedlikeholdt.
 
 ## Forsiden
@@ -19,23 +17,34 @@ Det er i porteføljenivået at standarddokumenter, standardoppgaver, standardint
 På forsiden får du en oversikt over tilgjengelige prosjekter med
 nøkkelinfo om hvert prosjekt. Her kan du også opprette nye prosjekter.
 
-![](./media/image17.png)
+Prosjektet må være ferdig konfigurert for at prosjektkortet vises på forsiden.
+
+<img src = "https://raw.githubusercontent.com/Puzzlepart/prosjektportalen-manual-kladd/main/Brukermanual/3%20Portefolje//media/3-Portefoljeforside.png" width ="100%" height ="50%" >     
 
 1)  Toppnavigasjon: Denne tar deg til forsiden i Prosjektportalen 365 eller direkte til ulike funksjoner i porteføljeområdet.
 
 2)  Ikon for denne installasjonen av Prosjektportalen. Dette kan
     tilpasses av administrator.
 
-3)  Opprett nytt prosjekt ved å trykke på «Opprett nytt prosjekt».
+3)  Opprett nytt prosjekt ved å trykke på «Opprett område».
     Tilgangen til å opprette nye prosjekter styres på porteføljenivå.
 
-5)  Prosjektoversikt med mulighet for å søke på alle prosjekter i
+4)  Prosjektoversikt med mulighet for å søke på alle prosjekter i
     porteføljen som man har tilgang på. Her vises prosjektkort som
-    lenker til prosjektet og viser prosjektets fase, prosjektleder og prosjekteier. Trykk på ![](./media/image18.png) nederst til venstre i hvert prosjektkort for å se ytterligere prosjektinformasjon.
+    lenker til prosjektet og viser prosjektets fase, prosjektleder og prosjekteier. Trykk på ![](./media/3.2UtvidelseProsjektkort.png) nederst til venstre i hvert prosjektkort for å se ytterligere prosjektinformasjon.
 
-6)  Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
+    **Mine prosjekter** - Her vises alle prosjekter hvor du er medlem.
 
-7)  Nyheter viser artikler som er publisert på prosjektområdene.
+    **Alle prosjekter** - Her vises alle prosjekter i miljøet. Prosjekter hvor du ikke er medlem vil være grået ut, og utilgjengelig for deg.
+
+    **Overordnede områder** - Viser alle overordnede områder i miljøet.
+
+    **Program** - Her vises alle programområdene i miljøet.
+
+    
+5)  Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
+
+6)  Nyheter viser artikler som er publisert på prosjektområdene.
 
 I tillegg er det et område for lenker nederst på siden. Lenker kan
 brukes til å peke til nyttige områder eller dokumenter som er

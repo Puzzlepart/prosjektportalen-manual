@@ -13,7 +13,7 @@ prosjektområder.
 
 ## Forsiden
 
-Før egenskaper for prosjektet er fylt ut, vil forsiden se ut som bildet under. Etter at prosjektets fase er satt, vil kun dokumenter og eventuelle usikkerheter knyttet opp mot gjeldende fase vises.
+Før egenskaper for prosjektet er fylt ut, vil forsiden se ut som bildet under. Ser under for bildeforklaringen. Etter at prosjektets fase er satt, vil kun dokumenter og eventuelle usikkerheter knyttet opp mot gjeldende fase vises. Det første du bør gjøre er å redigere egenskapene til prosjektet og fylle inn relevant prosjektinformasjon, [informasjon om hvordan finnes her](4.2%20Prosjektegenskaper%20og%20fasesetting.html)
 
 ![](./media/image44.png)
 
