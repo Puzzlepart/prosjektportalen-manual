@@ -11,7 +11,7 @@ Introduksjon
 ============
 
 Prosjektportalen 365 er en komplett løsning for prosjekt- og porteføljestyring.
-Den er basert på [Difis Prosjektveiviser](https://www.prosjektveiviseren.no) og er utviklet spesifikt for å
+Den er basert på [Difis Prosjektveiviser](https://prosjektveiviseren.digdir.no) og er utviklet spesifikt for å
 formidle og forenkle samhandling og prosjektledelse ved hjelp av Microsoft 365 og
 Microsoft Teams.
 
