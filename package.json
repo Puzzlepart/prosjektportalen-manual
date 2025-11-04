@@ -1,0 +1,16 @@
+{
+  "name": "prosjektportalen-manual",
+  "version": "1.0.0",
+  "description": "## Brukermanual for Prosjektportalen 365",
+  "main": "index.js",
+  "scripts": {
+    "lint": "markdownlint '**/*.md' --ignore node_modules",
+    "lint:fix": "markdownlint '**/*.md' --ignore node_modules --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "markdownlint-cli": "^0.38.0"
+  }
+}
