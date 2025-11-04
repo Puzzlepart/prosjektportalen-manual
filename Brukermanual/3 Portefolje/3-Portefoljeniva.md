@@ -37,7 +37,7 @@ Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på for
 
 5)  Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
 
-6)  Nyheter viser sist publiserte nyheter fra prosjketområdene.
+6)  Nyheter viser sist publiserte nyheter fra prosjektområdene.
   
 7)  I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan brukes til å peke til nyttige områder eller dokumenter som er relevante for brukere av Prosjektportalen. Lenkene vises for alle brukere som har tilgang til porteføljenivået.
 
@@ -54,7 +54,7 @@ Videre kan du filtrere på eksisterende prosjekter samt se mer detaljer om prosj
 
 
 
-***A) Tilgang til***- Her vises alle prosjekter du har tilgang til (inkludert lesetilgang).
+***A) Tilgang til*** - Her vises alle prosjekter du har tilgang til (inkludert lesetilgang).
 	    
 ***B) Mine prosjekter*** - Her vises alle prosjekter hvor du er medlem.
 	
@@ -64,15 +64,15 @@ Videre kan du filtrere på eksisterende prosjekter samt se mer detaljer om prosj
 	
 ***E) Program*** - Her vises alle programområdene i miljøet.
                       
-***F) Prosjektmaltype*** - Viser hvilken type mal som er brukt for prosjektet (Standard, bygg, anlegg,..).
+***F) Prosjektmaltype*** - Viser hvilken type mal som er brukt for prosjektet (Standard, bygg, anlegg, ..).
 	
-***G) Hurtigmeny for prosjekt*** - Hurtigmeny til forvalge områder (eks. Prosjektstatus, dokumentbibliotek, oppgaver, ..).
+***G) Hurtigmeny for prosjekt*** - Hurtigmeny til foretrukne områder (eks. Prosjektstatus, dokumentbibliotek, oppgaver, ..).
 	
 ***H) Prosjektinformasjonspanel*** - Åpner en panel med mer informasjon om prosjektet.
 
-***I) Tjenesteområde*** - Hvis tjenesteområde er oppgitt blir det viset frem her.
+***I) Tjenesteområde*** - Hvis tjenesteområde er oppgitt blir det vist frem her.
 
-***J) Prosjekttype*** - Oppgir hvilken type prosjekt det er (bygg, anlegg, IKT, ...).
+***J) Prosjekttype*** - Viser hvilken type prosjekt det er (bygg, anlegg, IKT, ...).
 
 
     
