@@ -15,3 +15,33 @@ Prosjektportalen ble i sin tid utviklet for Asker kommune og Kommit. Versjonen s
 ## For nedlasting og installasjon av produktet
 
 All nødvendig informasjon finner du på Prosjektportalen 365 sine sider på [GitHub](http://github.com/Puzzlepart/prosjektportalen365)
+
+## Markdown Linting
+
+Dette prosjektet bruker [markdownlint](https://github.com/DavidAnson/markdownlint) for å sikre konsistent formatering og struktur i dokumentasjonen.
+
+### Kjøre linting lokalt
+
+For å sjekke alle Markdown-filer i prosjektet:
+
+```bash
+npm install
+npm run lint
+```
+
+For å automatisk fikse enkle linting-feil:
+
+```bash
+npm run lint:fix
+```
+
+### Konfigurasjon
+
+Linting-reglene er definert i `.markdownlint.json` i prosjektets rotmappe. Følgende regler er deaktivert for å passe prosjektets dokumentasjonsstil:
+
+- `MD013` (line-length): Ingen begrensning på linjelengde
+- `no-inline-html`: Tillater bruk av inline HTML (nødvendig for Jekyll)
+- `MD025` (single-title): Tillater H1 i innhold når front matter har title
+- `MD045` (no-alt-text): Ikke krav om alt-tekst på alle bilder
+- `MD003` (heading-style): Tillater blanding av setext og atx heading-stiler
+- `MD029` (ol-prefix): Tillater fleksible nummereringer i ordnede lister

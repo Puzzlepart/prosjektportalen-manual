@@ -21,63 +21,46 @@ Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på for
 
 ![](./media/3-Portefoljeforsiden.png)
 
+1) Toppnavigasjon: Denne tar deg til forsiden i Prosjektportalen 365 eller direkte til ulike funksjoner i porteføljeområdet.
 
-
-1)  Toppnavigasjon: Denne tar deg til forsiden i Prosjektportalen 365 eller direkte til ulike funksjoner i porteføljeområdet.
-
-2)  Ikon for denne installasjonen av Prosjektportalen. Dette kan
+2) Ikon for denne installasjonen av Prosjektportalen. Dette kan
     tilpasses av administrator.
 
-3)  Opprett nytt prosjekt ved å trykke på «Opprett område».
+3) Opprett nytt prosjekt ved å trykke på «Opprett område».
     Tilgangen til å opprette nye prosjekter styres på porteføljenivå.
 
-4)  Prosjektoversikt med mulighet for å søke på alle prosjekter i
+4) Prosjektoversikt med mulighet for å søke på alle prosjekter i
     porteføljen som man har tilgang på. Her vises prosjektkort som
-    lenker til prosjektet og viser prosjektets Tjenesteområde (hvis oppgitt), Prosjekttype, prosjektleder og prosjekteier. 
+    lenker til prosjektet og viser prosjektets Tjenesteområde (hvis oppgitt), Prosjekttype, prosjektleder og prosjekteier.
 
-5)  Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
+5) Siste prosjekter gir oversikt over de siste prosjektene som er blitt opprettet i Prosjektportalen. Du ser bare prosjekter som du har tilgang til.
 
-6)  Nyheter viser sist publiserte nyheter fra prosjektområdene.
+6) Nyheter viser sist publiserte nyheter fra prosjektområdene.
   
-7)  I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan brukes til å peke til nyttige områder eller dokumenter som er relevante for brukere av Prosjektportalen. Lenkene vises for alle brukere som har tilgang til porteføljenivået.
-
-
+7) I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan brukes til å peke til nyttige områder eller dokumenter som er relevante for brukere av Prosjektportalen. Lenkene vises for alle brukere som har tilgang til porteføljenivået.
 
 ## Prosjekt filtrering og detaljer om prosjekter
 
 Videre kan du filtrere på eksisterende prosjekter samt se mer detaljer om prosjektene. På prosjektkortene (F-H) kan du holde muspekeren over ikonene eller trykke på dem for mer informasjon om prosjektet
 
-
 ![](./media/3-Portefoljeforside-prosjektinfo.png)
 
-
-
-
-
 ***A) Tilgang til*** - Her vises alle prosjekter du har tilgang til (inkludert lesetilgang).
-	    
+
 ***B) Mine prosjekter*** - Her vises alle prosjekter hvor du er medlem.
-	
+
 ***C) Alle prosjekter*** - Her vises alle prosjekter i miljøet. Prosjekter hvor du ikke er medlem vil være grået ut, og utilgjengelig for deg.
-	
+
 ***D) Overordnede områder*** - Viser alle overordnede områder i miljøet.
-	
+
 ***E) Program*** - Her vises alle programområdene i miljøet.
-                      
+
 ***F) Prosjektmaltype*** - Viser hvilken type mal som er brukt for prosjektet (Standard, bygg, anlegg, ..).
-	
+
 ***G) Hurtigmeny for prosjekt*** - Hurtigmeny til foretrukne områder (eks. Prosjektstatus, dokumentbibliotek, oppgaver, ..).
-	
+
 ***H) Prosjektinformasjonspanel*** - Åpner en panel med mer informasjon om prosjektet.
 
 ***I) Tjenesteområde*** - Hvis tjenesteområde er oppgitt blir det vist frem her.
 
 ***J) Prosjekttype*** - Viser hvilken type prosjekt det er (bygg, anlegg, IKT, ...).
-
-
-    
-    
-    
-
-
-
