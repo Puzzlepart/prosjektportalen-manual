@@ -41,7 +41,7 @@ Prosjektet må være ferdig konfigurert for at prosjektkortet skal vises på for
   
 7)  I tillegg er det et område for Nyttige lenker nederst på siden. Lenker kan brukes til å peke til nyttige områder eller dokumenter som er relevante for brukere av Prosjektportalen. Lenkene vises for alle brukere som har tilgang til porteføljenivået.
 
-8)  KI-assistent
+8)  Prosjektportalen Assistent integrerer kunstig intelligens i Prosjektportalen. Den kan brukes til å generere listeinnhold, lage prosjektlogoer og mye mer.
 
 9)  Hvis dere har valgt å legge til bestillingsportal-løsningen for de ansatte vil denne dukke opp slik som dette. 
 
