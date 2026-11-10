@@ -8,7 +8,7 @@ has_children: true
 
 # Porteføljenivå
 
-Porteføljenivået gir god oversikt over alle prosjektene i porteføljen. I denne oversikten kan du følge status på prosjekter, utvikling i gevinstrealisering og annen nøkkelinfo om prosjekter.
+Porteføljenivået gir god oversikt over alle prosjektene i porteføljen. I denne oversikten kan du følge status på prosjekter, utvikling i nytteoppnåelse og annen nøkkelinfo om prosjekter.
 
 Det er i porteføljenivået at standarddokumenter, standardoppgaver, standardinteressenter og standard fasesjekkpunkter blir vedlikeholdt.
 
@@ -68,7 +68,7 @@ Videre kan du filtrere på eksisterende prosjekter samt se mer detaljer om prosj
 	
 ***E) Program*** - Her vises alle programområdene i miljøet.
                       
-***F) Prosjektmaltype*** - Viser hvilken type mal som er brukt for prosjektet (Standard, bygg, anlegg, ..).
+***F) Prosjektmaltype*** - Viser hvilken prosjektmal som er brukt for prosjektet. Tilgjengelige prosjektmaler kan variere mellom ulike installasjoner av Prosjektportalen. Maler for byggprosjekter og anleggsprosjekter er tilgjengelige som valgfrie malpakker som kan installeres fra Malpakkekatalogen.
 	
 ***G) Hurtigmeny for prosjekt*** - Hurtigmeny til foretrukne områder (eks. Prosjektstatus, dokumentbibliotek, oppgaver, ..).
 	
