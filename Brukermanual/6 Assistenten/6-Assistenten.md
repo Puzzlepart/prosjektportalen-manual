@@ -25,7 +25,9 @@ Første gang du bruker Assistenten, kan du bli bedt om å logge inn med Microsof
 
 **Merk:** Assistenten må være aktivert i virksomheten. Hvis du ikke ser Assistenten eller får beskjed om at den ikke er tilgjengelig, kontakt den som forvalter Prosjektportalen i virksomheten.
 
-[Skjermbilde: Assistentens startside]
+![Åpne Assistenten fra bunnen av Prosjektportalen](./media/6-Assistenten-Apne.png)
+
+![Assistentens startside med tilgjengelige handlinger](./media/6-Assistenten-Startside.png)
 
 
 ## I et prosjektområde
