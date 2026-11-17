@@ -27,7 +27,12 @@ Første gang du bruker Assistenten, kan du bli bedt om å logge inn med Microsof
 
 ![Åpne Assistenten fra bunnen av Prosjektportalen](./media/6-Assistenten-Apne.png)
 
+
+
+
+**Assistenten på henholdsvis prosjekt- og porteføljenivå:**
 ![Assistenten prosjekt og portefølje](./media/6-Assistenten-Startside.png)
+
 
 
 ## I et prosjektområde
@@ -45,6 +50,7 @@ Fra et prosjektområde kan Assistenten blant annet hjelpe deg med:
 - **Del erfaring** Hjelper deg med å dele erfaringer og læring fra prosjektet. Du velger selv hva som skal deles og kan redigere innholdet før det sendes inn. Delte erfaringer modereres før publisering.
 
 
+
 ## På porteføljeområdet
 
 Fra porteføljeområdet kan Assistenten blant annet hjelpe deg med:
@@ -60,12 +66,14 @@ Fra porteføljeområdet kan Assistenten blant annet hjelpe deg med:
 Assistenten kan også inneholde handlinger for **idéhåndtering**, blant annet prioritering av idéer og opprettelse av prosjektidéer fra et dokument eller en beskrivelse.
 
 
+
 ## Slik bruker du en handling
 1. Åpne **Prosjektportalen Assistenten**.
 2. Velg handlingen du ønsker å bruke.
 3. Følg instruksjonene og legg inn eventuell informasjon Assistenten ber om.
 4. Kontroller resultatet eller forslaget.
 5. Bruk, rediger eller lagre resultatet dersom det er relevant.
+
 
 
 ## Når Assistenten bruker KI
@@ -77,11 +85,13 @@ Andre handlinger, som **Prosjektindikatorer** og **Datakvalitet i porteføljen**
 **Kontroller alltid KI-generert innhold før du bruker, lagrer eller deler det**. Resultatene bygger på informasjonen som er tilgjengelig i Prosjektportalen, og kvaliteten på denne informasjonen påvirker resultatet.
 
 
+
 ## Tilgang og prosjektdata
 
 Assistenten opererer som den innloggede brukeren og kan bare lese og endre informasjon du selv har tilgang til i Prosjektportalen.
 
 Når en handling bruker KI, behandles prosjektinformasjonen med virksomhetens egen KI-modell i Microsoft Foundry. Prosjektdata lagres ikke hos Prosjektportalen-teamet.
+
 
 ## Les mer
 
