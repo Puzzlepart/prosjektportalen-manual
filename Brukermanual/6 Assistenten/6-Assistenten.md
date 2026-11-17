@@ -27,7 +27,7 @@ Første gang du bruker Assistenten, kan du bli bedt om å logge inn med Microsof
 
 ![Åpne Assistenten fra bunnen av Prosjektportalen](./media/6-Assistenten-Apne.png)
 
-![Assistentens startside med tilgjengelige handlinger](./media/6-Assistenten-Startside.png)
+![Assistenten prosjekt og portefølje](./media/6-Assistenten-Startside.png)
 
 
 ## I et prosjektområde
