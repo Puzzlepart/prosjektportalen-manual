@@ -3,6 +3,11 @@
 title: "Prosjektportalen brukermanual"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
+nav_external_links:
+  - title: "Bestillingsportalen"
+    url: "https://www.bestillingsportalen.no/dokumentasjon/app-brukerveiledning"
+    hide_icon: false
+    opens_in_new_tab: false
 
 #baseurl: "/brukermanual" # the subpath of your site, e.g. /blog
 #url: "https://puzzlepart.github.io" # the base hostname & protocol for your site, e.g. http://example.com
