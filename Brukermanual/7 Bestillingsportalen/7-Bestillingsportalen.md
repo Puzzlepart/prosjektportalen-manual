@@ -12,4 +12,3 @@ has_children: true
 
 Se dokumentasjonen for [Bestillingsportalen](https://www.bestillingsportalen.no/) for mer informasjon om løsningen.
 
-Siden bør peke hit: [Brukerveiledning for Bestillingsportalen](https://www.bestillingsportalen.no/dokumentasjon/app-brukerveiledning#f%C3%B8lge-en-bestilling)
